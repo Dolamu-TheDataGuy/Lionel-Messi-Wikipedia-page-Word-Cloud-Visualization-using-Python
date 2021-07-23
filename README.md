@@ -1,0 +1,12 @@
+# Lionel-Messi-Wikipedia-page-Word-Cloud-Visualization-using-Python
+This notebook explains how to carry out an unorthodox Word Cloud visualization using masked image, the textual analysis focuses primarily on the Wikipedia page of the Greatest players to ever grace the game of football.
+
+The Python Libraries used include:
+
+- wordcloud
+
+- Python Image Library (PIL)
+
+- Numpy
+
+- NLTK
